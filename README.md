@@ -1,4 +1,6 @@
 # zabbixGrapher
+This tiny js one page application was something everyone lack in Zabbix interface: the page that lists all graphs for given host(s). Nice, handy time-saver when it comes to "take a look" if everythings is OK. Sadly, it won't work for 4.x branches of Zabbix, so I'll try to fix that. Below is the original description of forked project.
+
 This is one page js application for quick search/view zabbix graphs, dinamically graph any collected item
 * First step is to select host, just start typing HostGroup name or Hostname
 ![Host](https://habrastorage.org/files/f00/e9b/aa9/f00e9baa94654dd7a4b21f3aab706661.png)  
